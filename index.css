@@ -1,0 +1,19 @@
+body {
+    background: rgb(118, 214, 79);
+    
+    
+  }
+
+  .dullText {
+    font-style: normal;
+  }
+
+  .boldText {
+
+    font-weight: bold;
+  }
+
+  .fancyText {
+    font-style: italic;
+    font-size: 1.1em
+  }

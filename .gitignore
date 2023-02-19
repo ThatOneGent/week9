@@ -3,3 +3,7 @@
 node_modules
 *.md
 *.pdf
+
+package.json
+package-lock.json
+test*.*
